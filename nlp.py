@@ -1,3 +1,18 @@
+# Importing libraries
+import pandas as pd
+import nltk
+import spacy
+import gensim
+import textblob
+from nltk.stem import WordNetLemmatizer
+from textblob import Word, TextBlob
+from nltk.corpus import stopwords
+import warnings
+from collections import Counter
+from nltk.stem import PorterStemmer
+from nltk.sentiment import SentimentIntensityAnalyzer
+import re
+warnings.filterwarnings('ignore')
 def text_preprocessing(text):
     # Download NLTK data
     nltk.download('punkt')
@@ -7,6 +22,7 @@ def text_preprocessing(text):
     nltk.download('wordnet', quiet=True)
     nltk.download('omw-1.4', quiet=True)
     nltk.download('vader_lexicon', quiet=True)
+    nltk.download('stopwords')
 
     # standardization of letters
     standardized_text = text.lower()
