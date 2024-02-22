@@ -8,6 +8,24 @@ Tokenization
 Stemming
 Lemmatization
 
+
+What are some common text preprocessing techniques?
+There are many text preprocessing techniques that can be applied depending on the type and purpose of the text data. Some of the most common ones are:
+
+Tokenization: This is the process of breaking down text into smaller units called tokens. Tokens can be words, sentences, paragraphs, etc. Tokenization helps to split text into meaningful segments that can be easily processed by NLP models.
+
+Normalization: This is the process of converting text into a standard or common form. Normalization can include:Case conversion: This is the process of changing the case of letters in text to either lower or upper case. Case conversion helps to reduce the variability in text and make it more consistent.
+
+Stemming: This is the process of reducing words to their root or base form by removing suffixes. For example, "running", "runs", and "ran" can be stemmed to "run". Stemming helps to reduce the number of words in text and simplify the vocabulary.
+
+Lemmatization: This is the process of reducing words to their canonical or dictionary form by considering their part of speech and context. For example, "is", "are", and "were" can be lemmatized to "be". Lemmatization is similar to stemming but more accurate and sophisticated.
+
+Stopword removal: This is the process of removing words that are very common and do not add much meaning or information to the text. For example, "the", "a", "and", etc. Stopword removal helps to reduce the noise and size of text and focus on the important words.
+
+Punctuation removal: This is the process of removing punctuation marks from text, such as commas, periods, question marks, etc. Punctuation removal helps to eliminate unnecessary symbols and make text more clean and simple.
+
+Spelling correction: This is the process of correcting spelling errors or typos in text. Spelling correction helps to improve the quality and readability of text and avoid confusion or misunderstanding.
+
 https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/
 
 #################
