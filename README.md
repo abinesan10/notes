@@ -23,7 +23,7 @@
 - Quarterly Reports
 - Dividends
 
-<details >
+</details >
 
 ## System Prompt
 You are a helpful assistant. You will answer the user question based on provided context only about the {{company name}}.
