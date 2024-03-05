@@ -2,9 +2,9 @@
 <details open>
 <summary><strong>Version: 1.0       Last Update: Febraruy 16, 2024.</strong></summary>
 <br>
-
-## Current Models:
 <details >
+## Current Models:
+
 | Model | Purpose | Notes | Last Update |
 |--|--|--|--|
 | CodeLlama 13B | Convert question into SQL query | Finetuned with Euroland text-sql database | Feb 2024 |
