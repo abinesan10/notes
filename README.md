@@ -4,14 +4,15 @@
 <br>
 
 <br><br>
+<details open>
 ## Current Models:
-
+ det
 | Model | Purpose | Notes | Last Update |
 |--|--|--|--|
 | CodeLlama 13B | Convert question into SQL query | Finetuned with Euroland text-sql database | Feb 2024 |
 | Zephyr 7B | For summarizing retrieved data into answer | Not finetuned | Feb 2024 |
 | Classifier | assign questions to SQL and Semantic DB | Finetuned mostly with synthetic data | Feb 2024 |
-
+<details >
 
 ## Data Connections:
 
