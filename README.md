@@ -1,6 +1,6 @@
 
 <details open>
-<summary><strong>Version: 1.0  Last Update: Febraruy 16, 2024.</strong></summary>
+<summary><strong>Version: 1.0       Last Update: Febraruy 16, 2024.</strong></summary>
 <br>
 
 <br><br>
