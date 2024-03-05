@@ -47,7 +47,7 @@ last updated: November 2023
 
 
 
-<details open>
+<details >
 <summary><strong>Version: 2.0       Last Update: Febraruy 16, 2024.</strong></summary>
 <br>
 <details >
