@@ -6,6 +6,7 @@ Last Update: Febraruy 16, 2024.
 <br><br>
 <pre>
 ## Current Models:
+<table>
 <tr> 
 | Model | Purpose | Notes | Last Update |
 |--|--|--|--|
@@ -13,6 +14,7 @@ Last Update: Febraruy 16, 2024.
 | Zephyr 7B | For summarizing retrieved data into answer | Not finetuned | Feb 2024 |
 | Classifier | assign questions to SQL and Semantic DB | Finetuned mostly with synthetic data | Feb 2024 |
 </tr>
+</table>
 
 ## Data Connections:
 
