@@ -1,7 +1,4 @@
 
-
-
-
 <details>
 <summary>**Version: 1.0**</summary>
 <br>
