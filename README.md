@@ -1,8 +1,8 @@
 
 <details>
-<summary>Version: 1.0</summary>
+<summary>**Version: 1.0  Last Update: Febraruy 16, 2024.**</summary>
 <br>
-Last Update: Febraruy 16, 2024.
+
 <br><br>
 ## Current Models:
 
