@@ -4,7 +4,6 @@
 <br>
 Last Update: Febraruy 16, 2024.
 <br><br>
-<pre>
 ## Current Models:
 
 | Model | Purpose | Notes | Last Update |
@@ -41,7 +40,7 @@ last updated: November 2023
     - Do not use more than 300 words in your Answer  
     - If answer is longer than 300 words, try to summarize it so it fits into 300 words length
 
-</pre>
+
 </details>
 
 ---
