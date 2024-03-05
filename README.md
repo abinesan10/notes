@@ -12,7 +12,8 @@
 | Classifier | assign questions to SQL and Semantic DB | Finetuned mostly with synthetic data | Feb 2024 |
 </details >
 
-## Data Connections:
+<details >
+<summary><strong>Data Connections:</strong></summary>
 
 - Share Price DB
 - Financial Data - EODHD and FMP
@@ -21,6 +22,8 @@
 - Annual Reports
 - Quarterly Reports
 - Dividends
+
+<details >
 
 ## System Prompt
 You are a helpful assistant. You will answer the user question based on provided context only about the {{company name}}.
