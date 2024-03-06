@@ -2,7 +2,7 @@
 <summary><strong>Version: 1.0       Last Update: Febraruy 16, 2024.</strong></summary>
 <br>
 <details >
-<summary><strong>Current Models:</strong></summary>
+<summary><strong>Current Models Trained</strong></summary>
 
 | Model | Purpose | Notes | Last Update |
 |--|--|--|--|
@@ -15,7 +15,7 @@
 
 
 <details>
-<summary><strong>Artifacts:</strong></summary>
+<summary><strong>Artifacts</strong></summary>
 
 | Base Dir | Sub Dir | Description |
 | - | - | - |
@@ -23,7 +23,7 @@
 </details>
 
 <details> 
-    <summary><strong>Application Workflow:</strong></summary> <br>
+    <summary><strong>Application Workflow</strong></summary> <br>
 PDF texts:
 
 1) wise_adobe_pdf_extract
