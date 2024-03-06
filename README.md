@@ -70,12 +70,14 @@ Postgres_DB dump for restore
 | CodeLlama 13B | Convert question into SQL query | Finetuned with Euroland text-sql database | Feb 2024 |
 | Zephyr 7B | For summarizing retrieved data into answer | Not finetuned | Feb 2024 |
 | Classifier | assign questions to SQL and Semantic DB | Finetuned mostly with synthetic data | Feb 2024 |
-
 </details >
+
 </details >
 
 ------------
 
+<details>
+    <summary><strong>Summary</strong></summary>
 [Thursday 09:48] Arved Aksen
 1 for adobe pdf service, for euroland company code "S-DOM"
 [Thursday 09:48] Arved Aksen
@@ -130,7 +132,7 @@ this is to get website texts per page, according to db configuration
 also another folder: Postgres_DB
 [13:49] Arved Aksen
 which is db dump
-
+</details >
 
 
 
