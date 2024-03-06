@@ -36,14 +36,13 @@
 
 <details> 
     <summary><strong>Application Workflow:</strong></summary> 
-    PDF texts:
+PDF texts:
 
 1) wise_adobe_pdf_extract
 2) wise_parse_structured_pdf
 3) wise_finalise_pdf_texts
 
-
-Applications for WWW parsing:
+web parsing:
 
 1) wise_get_texts_from_websites
 2) wise_finalise_www_texts
