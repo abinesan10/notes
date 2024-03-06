@@ -83,7 +83,6 @@ Getting the read-only `ìnfo` provides access to the following information, comp
 
 Property | Description | Git: `master` | Git: `feature/great` | Git: `release/2.0`
 ---|---|---|---|---
-`scm` | SCM source | `git` | `git` | `git`
 `branch` | Branch name | `master` | `stage` | `develop`
 `Last commit` | Full commit hash | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70`
 `build` | Short commit/revision indicator, suitable for a build number | `09ef629` | `09ef629` | `09ef629`
