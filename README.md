@@ -13,7 +13,7 @@
 <details> 
     <summary><strong>Application Workflow</strong></summary> <br>
 PDF texts:
-
+a
 1) wise_adobe_pdf_extract
 2) wise_parse_structured_pdf
 3) wise_finalise_pdf_texts
