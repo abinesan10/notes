@@ -1,18 +1,6 @@
 <details open>
 <summary><strong>Version: 1.0       Last Update: Febraruy 16, 2024.</strong></summary>
 <br>
-<details >
-<summary><strong>Current Models Trained</strong></summary>
-
-| Model | Purpose | Notes | Last Update |
-|--|--|--|--|
-| CodeLlama 13B | Convert question into SQL query | Finetuned with Euroland text-sql database | Feb 2024 |
-| Zephyr 7B | For summarizing retrieved data into answer | Not finetuned | Feb 2024 |
-| Classifier | assign questions to SQL and Semantic DB | Finetuned mostly with synthetic data | Feb 2024 |
-
-</details >
-
-
 
 <details>
 <summary><strong>Artifacts</strong></summary>
@@ -73,7 +61,17 @@ Postgres_DB dump for restore
 - Annual Reports
 - Quarterly Reports
 - Dividends
+  <br>
+<details >
+<summary><strong>Current Models</strong></summary>
 
+| Model | Purpose | Notes | Last Update |
+|--|--|--|--|
+| CodeLlama 13B | Convert question into SQL query | Finetuned with Euroland text-sql database | Feb 2024 |
+| Zephyr 7B | For summarizing retrieved data into answer | Not finetuned | Feb 2024 |
+| Classifier | assign questions to SQL and Semantic DB | Finetuned mostly with synthetic data | Feb 2024 |
+
+</details >
 </details >
 
 ------------
