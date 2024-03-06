@@ -35,7 +35,10 @@
 </details>
 
 ------------
-Applications for PDF texts:
+
+<details> 
+    <summary><strong>Applications Workflow:</strong></summary> 
+    PDF texts:
 
 1) wise_adobe_pdf_extract
 2) wise_parse_structured_pdf
@@ -50,7 +53,6 @@ Applications for WWW parsing:
 Vector DB:
 
 1) wise_upload_data_to_vectordb (upload PDF and WWW texts to vector db)
-
 
 RestAPI:
 
@@ -74,6 +76,8 @@ Text to SQL
 Postgres DB:
 
 Postgres_DB dump for restore
+</details>
+
 
 ------------
 
