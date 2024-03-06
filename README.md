@@ -83,13 +83,13 @@ Getting the read-only `ìnfo` provides access to the following information, comp
 
 Property | Description | `master` | `feature/great` | `release/2.0`
 ---|---|---|---|---
-`branch` | Branch name | `master` | `stage` | `develop`
-`Last commit` | Full commit hash | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70`
-`build` | Short commit/revision indicator, suitable for a build number | `09ef629` | `09ef629` | `09ef629`
-`versionNumber` | Version number containing major, minor, patch, qualifier and versionCode |  |  |  
-`versionNumber.major` | Major version | 0 | 0 |  2
-`versionNumber.minor` | Minor version | 0 | 0 |  0
-`versionNumber.patch` | Patch version | 0 | 0 |  0, 1, 2, ...
+`branch` | Branch name | `master` | `Develop` 
+`Last commit` | Full commit hash | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70` 
+`build` | Short commit/revision indicator, suitable for a build number | `09ef629` | `09ef629` 
+`versionNumber` | Version number containing major, minor, patch, qualifier and versionCode |  |  
+`versionNumber.major` | Major version | 0 | 0 
+`versionNumber.minor` | Minor version | 0 | 0 
+`versionNumber.patch` | Patch version | 0 | 0, 1, 2, ...
 </details>
 
 
