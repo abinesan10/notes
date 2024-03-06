@@ -84,8 +84,8 @@ Getting the read-only `ìnfo` provides access to the following information, comp
 Property | Description | `Production` | `Develop`
 ---|---|---|---
 `branch` | Branch name | `master` | `develop` 
-`Last commit` | Full commit hash | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70` 
-`build` | Short commit/revision indicator, suitable for a build number | `09ef629` | `09ef629` 
+`Last commit` | Full commit hash |  |  
+`build` | Short commit/revision indicator, suitable for a build number |  |  
 `versionNumber` | Version number containing major, minor, patch, qualifier and versionCode |  |  
 `versionNumber.major` | Major version | 0 | 0 
 `versionNumber.minor` | Minor version | 0 | 0 
