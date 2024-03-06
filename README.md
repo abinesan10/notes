@@ -77,10 +77,6 @@ Postgres_DB dump for restore
 <details>
     <summary><strong>Versioning info</strong></summary>
 
-Once the `versioning` plug-in has been applied, a `versioning` extension is available for the project.
-
-Getting the read-only `ìnfo` provides access to the following information, computed from the SCM information:
-
 Property | Description | `Production` | `Develop`
 ---|---|---|---
 `branch` | Branch name | `master` | `develop` 
