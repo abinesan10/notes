@@ -82,8 +82,8 @@ Property | Description | `Production` | `Develop`
 `branch` | Branch name | `master` | `develop` 
 `Last commit` | Full commit hash |  |  
 `build` | Short commit/revision indicator, suitable for a build number |  |  
-`versionNumber` | Version number containing major, minor, patch, qualifier and versionCode |  |  
-`versionNumber.major` | Major version | 0 | 0 
+`versionNumber` | Version number containing major, minor, patch, qualifier and versionCode | V1 |  
+`versionNumber.major` | Major version | 1 | 0 
 `versionNumber.minor` | Minor version | 0 | 0 
 `versionNumber.patch` | Patch version | 0 | 0, 1, 2, ...
 </details>
