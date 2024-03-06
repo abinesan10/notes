@@ -34,10 +34,8 @@
 | `C:\WISE\PDF` | `adobe_zip\`, `uploaded_pdfs` | Working folder for local files, save pdf/extracted pdfs etc |
 </details>
 
-------------
-
 <details> 
-    <summary><strong>Applications Workflow:</strong></summary> 
+    <summary><strong>Application Workflow:</strong></summary> 
     PDF texts:
 
 1) wise_adobe_pdf_extract
