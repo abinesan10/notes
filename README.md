@@ -35,7 +35,7 @@
 </details>
 
 <details> 
-    <summary><strong>Application Workflow:</strong></summary> 
+    <summary><strong>Application Workflow:</strong></summary> <br>
 PDF texts:
 
 1) wise_adobe_pdf_extract
