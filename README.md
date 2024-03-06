@@ -12,18 +12,6 @@
 
 </details >
 
-<details >
-<summary><strong>Data Connections:</strong></summary>
-
-- Share Price DB
-- Financial Data - EODHD and FMP
-- Website texts - Nordea
-- Press Releases
-- Annual Reports
-- Quarterly Reports
-- Dividends
-
-</details >
 
 
 <details>
@@ -75,6 +63,18 @@ Postgres DB:
 Postgres_DB dump for restore
 </details>
 
+<details >
+<summary><strong>Data Connections</strong></summary>
+
+- Share Price DB
+- Financial Data - EODHD and FMP
+- Website texts - Nordea
+- Press Releases
+- Annual Reports
+- Quarterly Reports
+- Dividends
+
+</details >
 
 ------------
 
