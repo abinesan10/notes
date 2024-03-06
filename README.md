@@ -81,7 +81,7 @@ Once the `versioning` plug-in has been applied, a `versioning` extension is avai
 
 Getting the read-only `ìnfo` provides access to the following information, computed from the SCM information:
 
-Property | Description | Git: `master` | Git: `feature/great` | Git: `release/2.0`
+Property | Description | `master` | `feature/great` | `release/2.0`
 ---|---|---|---|---
 `branch` | Branch name | `master` | `stage` | `develop`
 `Last commit` | Full commit hash | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70`
