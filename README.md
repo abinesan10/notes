@@ -84,34 +84,13 @@ Getting the read-only `ìnfo` provides access to the following information, comp
 Property | Description | Git: `master` | Git: `feature/great` | Git: `release/2.0`
 ---|---|---|---|---
 `scm` | SCM source | `git` | `git` | `git`
-`branch` | Branch name | `master` | `feature/great` | `release/2.0`
-`branchType` | Type of branch | `master` | `feature` | `release`
-`branchId` | Branch as an identifier | `master` | `feature-great` | `release-2.0`
-`commit` | Full commit hash | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70`
+`branch` | Branch name | `master` | `stage` | `develop`
+`Last commit` | Full commit hash | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70` | `09ef6297deb065f14704f9987301ee6620493f70`
 `build` | Short commit/revision indicator, suitable for a build number | `09ef629` | `09ef629` | `09ef629`
-`full` | Branch ID and build | `master-09ef629` | `feature-great-09ef629` | `release-2.0-09ef629`
-`base` | Base version for the display version | `` | `great` | `2.0`
-`gradle` | Project's version |  |  | 
-`display` | Display version | `master` | `great` | `2.0.0`, `2.0.1`, ...
-`tag` (1) | Current tag | (2) | (2) | (2)
-`lastTag` (1) | Last tag | (4) | (4) | (4)
-`dirty` | Current state of the working copy | (3) | (3) | (3)
 `versionNumber` | Version number containing major, minor, patch, qualifier and versionCode |  |  |  
 `versionNumber.major` | Major version | 0 | 0 |  2
 `versionNumber.minor` | Minor version | 0 | 0 |  0
 `versionNumber.patch` | Patch version | 0 | 0 |  0, 1, 2, ...
-`versionNumber.qualifier` | Version qualifier (alpha, beta, engineer, ...)| '' | '' | '' 
-`versionNumber.versionCode` | Version code | 0 | 0 |  20000, 20001, 20002, ...
-
-(1) not supported for Subversion
-(2) will be the name of the current tag if any, or `null` if no tag is associated to the current `HEAD`.
-(3) depends on the state of the working copy the plug-in is applied to. `true` if the working copy contains uncommitted
-files.
-(4) Name of the last tag on the branch. It can be on the current `HEAD` but not
-necessarily - it will be `null` if no previous tag can be found. The last tags are
-matched against the `lastTagPattern` regular expression defined in the configuration. It
-defaults to `(\d+)$`, meaning that we just expect a sequence a digits at the end
-of the tag name.
 </details>
 
 
